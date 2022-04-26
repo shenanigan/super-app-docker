@@ -1,0 +1,1 @@
+<?php echo "I am running in a container."; ?>
